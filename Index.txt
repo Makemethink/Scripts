@@ -1,5 +1,9 @@
-1. EnumerateUserAccount.bat
+1. HelloWorld.bat - Basic commands to start with
 
-2. SearchInRegistry.bat
+2. EnumerateUserAccount.bat - This will enumerate and list the logged in users from HKEY_USERS
 
-3. ShowSoftwarePath.bat
+3. SearchInRegistry.bat - This will allow us to search through the registry (only few path) to find the installed software informations
+
+4. ShowSoftwarePath.bat - This will list the uninstallation string for specified software
+
+5. DisplayBanner.bat - This will guide you to set the banner for your batch script
