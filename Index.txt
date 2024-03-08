@@ -7,3 +7,5 @@
 4. ShowSoftwarePath.bat - This will list the uninstallation string for specified software
 
 5. DisplayBanner.bat - This will guide you to set the banner for your batch script
+
+6. AutomaticFileIndex.bat - This will recursively searches current folder & retrives mentioned file format & stores the name into index.txt
